@@ -5,7 +5,7 @@ import discord
 from dotenv import load_dotenv
 from discord.ext import commands
 
-y_sch = pd.read_csv(r'C:\Users\robba\Desktop\weekly_scheduler\s2.csv')
+y_sch = pd.read_csv(r's2.csv')
 
 
 
