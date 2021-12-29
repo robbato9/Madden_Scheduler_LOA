@@ -11,7 +11,7 @@ y_sch = pd.read_csv(r'C:\Users\robba\Desktop\weekly_scheduler\s2.csv')
 
 
 #load_dotenv()
-TOKEN = 'NzczMzAyMzU3MDU1NzY2NjA4.X6HP8Q.d86gogEByvblVPuaRs8htmHJvrs'
+TOKEN = 'NzczMzAyMzU3MDU1NzY2NjA4.X6HP8Q.M0yfaMlgMKr1S_drNaeqE3MTkPI'
 
 client = discord.Client()
 
