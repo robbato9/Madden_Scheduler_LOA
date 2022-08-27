@@ -11,7 +11,7 @@ y_sch = pd.read_csv(r's2.csv')
 
 
 #load_dotenv()
-TOKEN = 'NzczMzAyMzU3MDU1NzY2NjA4.X6HP8Q.M0yfaMlgMKr1S_drNaeqE3MTkPI'
+TOKEN = ""
 
 client = discord.Client()
 
